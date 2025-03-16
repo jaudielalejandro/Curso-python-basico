@@ -1,1 +1,1 @@
-Nuevo contenido con 'w+'.
+Este es un archivo de ejemplo.

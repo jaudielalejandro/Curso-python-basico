@@ -1,0 +1,1 @@
+Este mensaje se escribirá en output.txt en lugar de la pantalla.
