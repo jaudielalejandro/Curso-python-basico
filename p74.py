@@ -6,3 +6,4 @@ x = x % y
 y = y % x
  
 print(y)
+ 
